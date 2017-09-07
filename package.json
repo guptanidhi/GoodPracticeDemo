@@ -1,0 +1,16 @@
+{
+  "name": "goodpracticedemo",
+  "version": "1.0.0",
+  "description": "Good vs Bad Practice Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nidhi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
